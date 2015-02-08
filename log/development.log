@@ -46,3 +46,9 @@ Started GET "/" for ::1 at 2015-02-07 17:08:58 -0800
 Processing by ApplicationController#hello as HTML
   Rendered text template (0.0ms)
 Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-08 15:03:56 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 29ms (Views: 11.2ms | ActiveRecord: 0.0ms)
