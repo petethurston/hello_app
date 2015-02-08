@@ -1,0 +1,48 @@
+
+
+Started GET "/" for ::1 at 2015-02-07 16:29:02 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 29ms (Views: 9.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for ::1 at 2015-02-07 16:33:03 -0800
+Processing by Rails::InfoController#properties as */*
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/info/properties.html.erb (0.3ms)
+Completed 200 OK in 65ms (Views: 7.9ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-07 16:37:37 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (1.3ms)
+Completed 200 OK in 25ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/rails/info/properties" for ::1 at 2015-02-07 16:37:38 -0800
+Processing by Rails::InfoController#properties as */*
+  Rendered /Library/Ruby/Gems/2.0.0/gems/railties-4.2.0/lib/rails/templates/rails/info/properties.html.erb (0.3ms)
+Completed 200 OK in 63ms (Views: 8.2ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/" for ::1 at 2015-02-07 17:06:38 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 26ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-07 17:08:44 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-07 17:08:54 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 23ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-07 17:08:58 -0800
+Processing by ApplicationController#hello as HTML
+  Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.3ms | ActiveRecord: 0.0ms)
